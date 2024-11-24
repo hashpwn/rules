@@ -8,3 +8,5 @@ This repository contains hashpwn's Top Rules, a collection of high-performing ha
   * hashpwn_1500.rule
   * hashpwn_3000.rule
   * hashpwn_5000.rule
+
+https://forum.hashpwn.net/post/170
